@@ -4,3 +4,7 @@ Merge combines changes from one branch to another while
 preserving the history of the source branch and rebase
 moves the changes from one branch to another while
 altering the history. 
+
+What is a remote repository?
+
+A storage for programming projects that is hosted on the Internet.
