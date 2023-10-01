@@ -1,0 +1,3 @@
+What is a remote repository?
+
+A storage for programming projects that is hosted on the Internet.
